@@ -9,7 +9,9 @@ Features:
 * Changes the picture date with a random date within a given date and hour range 
 * Writes a random coordinate to the picture given the coordinate and the allowed radius.
 
-> NOTE: If you want the coordinate to be exactly your input, input 0 in the allowed radius. 
+> NOTE: If you want the coordinate to be exactly your input, input 0 in the allowed radius.
+
+> It supports spanish (es), english (en) and chinese (zh) 
 
 ---
 ### Disclaimer
