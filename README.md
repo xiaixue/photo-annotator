@@ -57,4 +57,19 @@ This program allows editing of photo metadata, including date, time, and locatio
 ![2](assets/ex2.jpg)
 ![3](assets/ex3.png)
 
-> In 
+> In the database it was written the following
+
+```
+{
+  "C:/Users/AVRG_USER/Documents/IMG_20240528_101247.jpg": {
+    "note": "Receptacle and conduit pipe in bad state",
+    "coordinates": [
+      27.27548156872643,
+      -81.399378674264
+    ],
+    "importance": "Medium",
+    "date": "2025-06-30 09:15",
+    "category": "Electrical installation"
+  }
+}
+```
